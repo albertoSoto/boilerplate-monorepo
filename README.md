@@ -8,7 +8,7 @@ Steps:
 - lerna create shared-ui
 
 Let’s add microbundle to our components package, The above command will add microbundle as a dev-dependency.
-- cd packages/components && yarn add microbundle -D
+- cd packages/shared-ui && yarn add microbundle -D
 
 We can run the same command in both environment with
 - lerna run dev
