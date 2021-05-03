@@ -12,3 +12,8 @@ Let’s add microbundle to our components package, The above command will add mi
 
 We can run the same command in both environment with
 - lerna run dev
+
+We can link repos with
+- lerna bootstrap
+
+

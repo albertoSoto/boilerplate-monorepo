@@ -1,1 +1,1 @@
-{"version":3,"file":"shared-ui.esm.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"shared-ui.esm.js","sources":["index.js"],"sourcesContent":["\"use strict\";\r\n\r\nmodule.exports = components;\r\n\r\nfunction components() {\r\n    console.log(\"Front components package!\");\r\n}\r\n"],"names":["module","exports","console","log"],"mappings":"AAEAA,OAAOC,QAEP,WACIC,QAAQC,IAAI"}

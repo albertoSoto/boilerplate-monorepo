@@ -6,6 +6,8 @@
   },
   "scripts": {
     "start:development": "lerna run dev",
-    "start:dev:logs": "lerna run dev --parallel"
+    "start:dev:logs": "lerna run dev --parallel",
+    "start:prj-nextjs": "lerna run dev --scope nextjs-app",
+    "bootstrap": "lerna bootstrap"
   }
 }
