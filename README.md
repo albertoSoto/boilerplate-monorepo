@@ -1,6 +1,6 @@
 # sandbox-monorepo
 
-Project solving a NextJS scaffold with a shared-component library in a monorepo environment with Lerna
+Project solving a NextJS scaffold with a shared-component library w/Storybook in a monorepo environment with Lerna
 
 base article: https://buttercms.com/blog/nextjs-storybook-and-lerna-build-a-monorepo-structure
 
