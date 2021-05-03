@@ -1,4 +1,4 @@
-# sandbox-monorepo
+# Boilerplate for monorepo arch: NextJS, Lerna + Storybook
 
 Project solving a NextJS scaffold with a shared-component library w/Storybook in a monorepo environment with Lerna
 
